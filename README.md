@@ -19,10 +19,8 @@
 Ниже пример кода из нашего приложения:
 
 ```
-<div align="center">
   .selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
 }  
-</div>
 ```
