@@ -18,7 +18,10 @@
   
 Ниже пример кода из нашего приложения:
 
-```<css>.selector {
+<div align="center">
+```.selector {
   font-family: "Awesome", Arial, sans-serif;
   color: red;
-}</css>```
+}```
+</div>
+
